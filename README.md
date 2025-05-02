@@ -13,8 +13,7 @@ A simple command-line market simulation written in Rust that demonstrates basic 
 ---
 
 ## Project Structure
-- `src/main.rs` - Core application logic, data structures, and main function
-- `src/ui.rs` - User interface functions for display and input handling
+- `main.rs` - Core application logic, data structures, and main function
 
 ---
 
